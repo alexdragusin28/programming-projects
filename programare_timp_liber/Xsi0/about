@@ -1,0 +1,3 @@
+Ideea din spatele acestui proiect este una foarte simpla, un joc clasic de X si 0. Exista 2 jucatori, fiecare isi alege cate o casuta pana in momentul in care unul dintre acestia castiga sau pana cand nu mai exista nicio casuta libera. In oricare dintre cele 2 cazuri, se va afisa un mesaj corespunzator.
+
+The idea behind this project is very simple, a classic game of X and 0. There are 2 players, each one chooses a box until one of them wins or until there is no free box left. In any of the 2 cases, a corresponding message will be displayed.
