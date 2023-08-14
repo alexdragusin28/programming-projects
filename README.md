@@ -1,4 +1,4 @@
-# proiecte-programare
+# programming-projects
 
 romana 
 
