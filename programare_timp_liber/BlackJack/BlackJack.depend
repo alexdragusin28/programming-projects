@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688585568 source:d:\facultate, educatie, web-developer\programming\blackjack\main.c
+	<stdio.h>
+	<conio.h>
+
